@@ -28,3 +28,18 @@ Print B
 Else
 Print C
 End
+
+Exercise 4
+Pseudocode:
+
+Input three numbers(A, B, C)
+Compare the sum of A and B with C
+If the sum of A and B is greater than C
+Compare the sum of C and A with B
+If the sum of C and A is greater than B
+Compare the sum of B and C with A
+If the sum of B and C is greater than A
+Making triangle with three numbers is possible
+Else
+Making triangle with three numbers is impossible
+End
