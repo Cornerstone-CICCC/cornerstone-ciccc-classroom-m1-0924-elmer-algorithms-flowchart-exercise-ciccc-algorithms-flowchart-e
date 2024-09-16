@@ -1,0 +1,6 @@
+Exercise 1
+Pseudocode:
+
+Input length in feet (LFT)
+Calculate the length in cm (LCM) by multiplying LFT by 30
+Print length in cm (LCM)
