@@ -43,3 +43,18 @@ Making triangle with three numbers is possible
 Else
 Making triangle with three numbers is impossible
 End
+
+Exercise 5
+Pseudocode:
+
+Input student's score (S) and the full score (F)
+If S is greater than or equal to 80% of F
+Print "A"
+Else
+If S is greater than or equal to 60% of F
+Print "B"
+Else
+If S is greater than or equal to 40% of F
+Print "C"
+Else
+Print "No Grade"
