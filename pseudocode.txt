@@ -4,3 +4,10 @@ Pseudocode:
 Input length in feet (LFT)
 Calculate the length in cm (LCM) by multiplying LFT by 30
 Print length in cm (LCM)
+
+Exercise 2
+Pseudocode:
+
+Input the width (W) and the length (L) of a rectangle
+Calculate the area (A) by multiplying W by L
+Print A
