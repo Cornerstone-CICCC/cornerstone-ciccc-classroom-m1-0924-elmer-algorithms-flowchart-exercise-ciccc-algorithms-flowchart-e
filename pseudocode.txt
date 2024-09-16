@@ -11,3 +11,20 @@ Pseudocode:
 Input the width (W) and the length (L) of a rectangle
 Calculate the area (A) by multiplying W by L
 Print A
+
+Exercise 3
+Pseudocode:
+
+Input the three different numbers(A, B, C)
+Compare A with B
+If A is greater than B
+Compare A with C
+If A is greater than C
+Print A
+Else
+Compare B with C
+If B is greater than C
+Print B
+Else
+Print C
+End
